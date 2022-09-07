@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+<p>Hello, Laravel</p>
+=======
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
@@ -130,3 +133,4 @@
         </div>
     </body>
 </html>
+>>>>>>> 920e92e8dc69c056ddc12d88aab3404f51afa516

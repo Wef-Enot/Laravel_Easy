@@ -35,7 +35,7 @@
     <title>Easy</title>
     <link href="/templates/easy/css/bootstrap.min.css" rel="stylesheet">
     <link href="/templates/easy/css/style-main.css" rel="stylesheet">
-    <link href="/templates/easy/css/dark.css" rel="stylesheet">
+    <link href="/templates/easy/css/light.css" rel="stylesheet">
     <link href="/templates/easy/css/glyphicon.css" rel="stylesheet">
     <script>
     var TPL_PATH = "/";
@@ -236,8 +236,6 @@
     </div>
     
     <div class="footer-copyright c-7 s13 text-center">© 2022 easy.elite-board.org – доска бесплатных объявлений</div> 
-    <div class="c-20 text-center"><br>© Автор шаблона Оксана Соболева <a href="https://elite-board.org" title="" target="_blank">Шаблоны для доски объявлений</a></div>
-      
     </div>  
     </div></div>
     

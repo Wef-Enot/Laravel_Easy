@@ -16,7 +16,7 @@
                     <h1 class="ind-h1 s24">Доска Объявлений</h1>
                     <p class="s17 c-4">Предложения от частных лиц и организаций
                         в Москве
-                        !</p>
+                        </p>
                 </div>
 
                 <div class="categories bltree-ind">

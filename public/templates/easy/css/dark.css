@@ -1,0 +1,85 @@
+@charset "utf-8";
+
+body,body.popsend,.b-f,.b-f-h:hover,.pagination-btn span,.pagination-btn span:hover,.dark #main>div.container,.dark .header-nav-user,
+body.popsend .form-control
+{background-color:#1a1a1b}
+
+.b-f3,.b-f3-h:hover,.b-f5,.b-f5-h:hover,.list-block-cat .nofoto,center .ok,
+.product_header_btn span:hover,.b-fb,.b-fb-h:hover,.b-fff3,#footer,
+.editandremove,.active-p,.lSSlideOuter li,.modal-content,.btn-default:focus,.btn-default.focus,.btn-default:hover,
+.fotorama__nav,.dark .blogs-comment-list li,.dark .blogs-comment-list li:nth-child(2n),#region_loader_img,
+.email-conf,.form-add .form-control,.count-l,.add-moder,.autocomplete-suggestions,.bl-regionlist
+{background-color:#212122}
+
+.list-art-bl,.btn-default,.current-list ul li.active a,.current-list ul li.active a:hover,
+.current-list ul li.active a:focus,.current-list ul li a:hover,.current-list ul li a:focus,
+.alert-warning,.alert-info,.alert-success,.alert-danger,
+.block_search_ajax .form-control,#search_form_cat .form-control,.current-list .dropdown-toggle,select,select.form-control,
+.pagination>li>a, .pagination>li>span,.pagination>li>a:hover,.pagination>li>span:hover,.pagination>li>a:focus,.pagination>li>span:focus,
+#regionlist li a:hover,#regionlist li a.active,.dark .articles-current .art-ind-cat a,.dark .a-list-art .list-art-bl,.dark .articles-current .row>div:nth-child(2n) .list-art-bl
+{background-color:#29292b}
+
+.tree-l:before,.tree2-l:before{background:#29292b}
+
+.btn-user,.dropdown-menu a.drop-active,.lihover li a:hover,.lihover li a:focus
+{background-color:#2f2f31}
+
+.btn-user:hover,.cl-line,.dark .seller-info-title:after{background-color:#39393c}
+
+body,.c-20,.ch-20:hover,#regionlist li a:hover,#regionlist li a.active,.offer-title h3 a,.specials-offer h4,.tree2 .dropdown-menu a,.btn-user:hover,.c-f,
+.dropdown-menu>li>a,.navigation-menu li>a,.dropdown-menu a.drop-active,.btn-default:focus, .btn-default.focus, .btn-default:hover,
+.loc-current.c-5,.current-list ul li.active a, .current-list ul li.active a:hover,.current-list ul li.active a:focus,.current-list ul li a:hover, 
+.current-list ul li a:focus,.filter-mes .btn-default,.name-cat,.btn-default,.current-list .dropdown-toggle a,
+.pagination>li>a, .pagination>li>span,.pagination>li>a:hover,.pagination>li>span:hover,.pagination>li>a:focus,.pagination>li>span:focus
+{color:#fff}
+
+a,.a-a,.c-cb,.c-cbh:hover,.dark .tree2 .tree2-title>a{color:#98a9df}
+a:hover,.a-hov:hover,.breadcrumb a:hover,.c-cr,.c-crh:hover,.offer:hover h3 a,.specials-offer a:hover h4,
+.product_list-imag:hover .product_list-tit,.tree2 .dropdown-menu a:hover,li.tree2-title a:hover,.active-p>div,
+a.active-p,li.active-p>a,.nav-user-span.active-p,.header-nav-user .dropdown-menu > li > a:hover,.a-list-art:hover .list-art-title,
+.serv-type .active a
+{color:#afbbe3}
+
+.c-7,.breadcrumb a,.product_params_list span,.product_list-region a,.tree2-sub span,
+.add-tb1,.bl-celln,.c-5,.c-4,#regionlist li a,.region_current a,
+.c-a,select option:first-child,.product_params_list span.glyphicon
+{color:#aaa}
+
+::-moz-placeholder{color:#aaa}:-ms-input-placeholder{color:#aaa}::-webkit-input-placeholder{color:#aaa}
+
+.locationicon,.footer-copyright,.sidebar_right>div,.current-list .dropdown-toggle,.form-control,.btn-default,.filter-panel,
+.block_search_ajax select.form-control,.block_search_ajax .dropdown-menu,.block_search_ajax .dropdown-toggle.form-control,.block_search .yamm .dropdown-menu,
+.pagination>li>a, .pagination>li>span,.pagination>li>a:hover,.pagination>li>span:hover,.pagination>li>a:focus,.pagination>li>span:focus,
+.pagination-bar,.page-pokaz,.autocomplete-suggestions .autocomplete-suggestion,.bl-regionlist,.dark .list-title,
+.dark .search-map .btn-search,.dark .search-map .btn-search:active,.dark .tree2-title,.dark .count-shop,.dark .add-details,.dark .item-list-phone,
+.dark .seller-search,.dark .count-a,.btn-form,.dark .page-add .bl-center h1,.dark .uslugi_cont,.dark .articles-current .art-ind-cat a,
+body.popsend .form-control,.bl-spec2 .bl-specials-offer-slider,.bl-spec2 .block-v
+{border-color:#39393c}
+
+.header-panelbg,.header-top{background-color:#5c79d2}
+
+.dropdown-menu{-webkit-box-shadow:0 10px 30px 0 rgba(0, 0, 0, 0.6);box-shadow:0 10px 30px 0 rgba(0, 0, 0, 0.6);background-color:#212122}
+
+#search_form_cat{background:#151515}
+
+.offer-price .marked,.list_message_block .marked{background-color:#7eb053}
+
+.form-control:focus,.open .form-control,.current-list.open .dropdown-toggle{border-color:#8aa4f7 !important}
+.cl-radio input:checked + label{background-color:#7092fe}
+
+.close,.close:hover{color:#fff;text-shadow:none;opacity:1}
+
+.serv-type,.premium h3{background-color:#29292b !important}
+.serv-type .active:before,.serv-type .active:after{border-bottom-color:#212122 !important}
+.dark .bd-d3,.dark .product_header_btn span,.dark .product_params,.dark .product_map
+{border-color:#39393c !important}
+.dark .bd-d3,.dark .product_header_btn span{background-color:#29292b}
+.dark .product_price>span,.dark .comment-avtoris,.dark .pm_counter{background-color:#ffac0e}
+.dark .product_block_sidebar{background-color:#141414}
+.dark #premium_div .modal-header,.dark #contact_autor_div .modal-header,.dark .blogs-comment-description .form-control{background-color:#29292b}
+.dark #contact_autor_div .modal-header:after{border-bottom-color:#212122}
+
+@media (max-width:767px){.btn-user,.btn-user:hover,.selectRegion,.selectRegion:hover{background-color:#5c79d2}.btn-nav{background-position:13px center}
+.resp-line{border-color:#39393c}.theme-type{width:32px;height:32px;}}
+
+

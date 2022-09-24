@@ -21,69 +21,17 @@
 
                 <div class="categories bltree-ind">
                     <ul class="row tree4 wrapper-scroll-tree4">
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Avtotransport/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/avto-cat.png" alt="Автотранспорт"></span> <span class="name-cat b-f pos-rel">Автотранспорт</span>
-                                <span class="count-tree c-7 s13 b-f"> 9</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Nedvizhimost/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/nedv-cat.png" alt="Недвижимость"></span> <span class="name-cat b-f pos-rel">Недвижимость</span>
-                                <span class="count-tree c-7 s13 b-f"> 2</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Rabota/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/obr-cat.png" alt="Работа"></span> <span class="name-cat b-f pos-rel">Работа</span>
-                                <span class="count-tree c-7 s13 b-f"> 0</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Lichnye-veshi/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/od-cat.png" alt="Личные вещи"></span> <span class="name-cat b-f pos-rel">Личные вещи</span>
-                                <span class="count-tree c-7 s13 b-f"> 2</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Mebel-interer/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/meb-cat.png" alt="Мебель, интерьер"></span> <span class="name-cat b-f pos-rel">Мебель, интерьер</span>
-                                <span class="count-tree c-7 s13 b-f"> 1</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Znakomstva/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/snak-cat.png" alt="Знакомства"></span> <span class="name-cat b-f pos-rel">Знакомства</span>
-                                <span class="count-tree c-7 s13 b-f"> 0</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Tovary/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/tovar-cat.png" alt="Товары"></span> <span class="name-cat b-f pos-rel">Товары</span>
-                                <span class="count-tree c-7 s13 b-f"> 1</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Zhivotnye/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/anim-cat.png" alt="Животные"></span> <span class="name-cat b-f pos-rel">Животные</span>
-                                <span class="count-tree c-7 s13 b-f"> 0</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Muzyka-iskusstvo/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/music-cat.png" alt="Музыка, искусство"></span> <span class="name-cat b-f pos-rel">Музыка, искусство</span>
-                                <span class="count-tree c-7 s13 b-f"> 0</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Bytovaya-tehnika/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/el-cat.png" alt="Бытовая техника"></span> <span class="name-cat b-f pos-rel">Бытовая техника</span>
-                                <span class="count-tree c-7 s13 b-f"> 0</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Biznes/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/bis-cat.png" alt="Бизнес"></span> <span class="name-cat b-f pos-rel">Бизнес</span>
-                                <span class="count-tree c-7 s13 b-f"> 1</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Uslugi/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/ycl-cat.png" alt="Услуги"></span> <span class="name-cat b-f pos-rel">Услуги</span>
-                                <span class="count-tree c-7 s13 b-f"> 0</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Telefony/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/tel-cat.png" alt="Телефоны"></span> <span class="name-cat b-f pos-rel">Телефоны</span>
-                                <span class="count-tree c-7 s13 b-f"> 0</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Stroi-materialy/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/mat-cat.png" alt="Строй материалы"></span> <span class="name-cat b-f pos-rel">Строй материалы</span>
-                                <span class="count-tree c-7 s13 b-f"> 0</span></a>
-                        </li>
-                        <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="https://easy.elite-board.org/Russia/Moscow/Orgtehnika/" class="bl-bl b-f br3 pos-rel sp-now s15">
-                                <span class="img-circ"><img src="/images/cat/org-cat.png" alt="Оргтехника"></span> <span class="name-cat b-f pos-rel">Оргтехника</span>
-                                <span class="count-tree c-7 s13 b-f"> 0</span></a>
-                        </li>
+
+                        @foreach ($categories as $category)
+                            <li class="categories-item col-xs-6 col-sm-4 col-md-4"><a href="/category/{{$category->id}}" class="bl-bl b-f br3 pos-rel sp-now s15">
+                                <span class="img-circ"><img src="/storage/img/cat/{{$category->img}}" alt="{{$category->name}}"></span> <span class="name-cat b-f pos-rel">{{$category->name}}</span>
+                                <span class="count-tree c-7 s13 b-f">{{count($category->boards)}}</span></a>
+                            </li>
+                        @endforeach
+                        
                     </ul>
                 </div>
-
+                
                 <div class="list-block-ind row">
 
                     <div class="title-name s19 col-sm-12">VIP-объявления</div>
@@ -96,7 +44,7 @@
 
                                     <div class="message_block_imag br3 pos-rel imgLiquidFill imgLiquid imgLiquid_bgSize imgLiquid_ready" style="background-image: url(&quot;/uploads/usr/0/ts_d57de3451f3ea83bbe97029c7ff300f6_35_4.webp&quot;); background-size: cover; background-position: center center; background-repeat: no-repeat;">
 
-                                        <a title="Haval Jolion 2021" href="https://easy.elite-board.org/Russia/Moscow/Avtotransport/sale/Legkovye/29-haval-jolion-2021.html" style="display: block; width: 100%; height: 100%;">
+                                        <a title="Haval Jolion 2021" href="" style="display: block; width: 100%; height: 100%;">
                                             <img alt="Haval Jolion 2021" src="/uploads/usr/0/ts_d57de3451f3ea83bbe97029c7ff300f6_35_4.webp" style="display: none;">
                                         </a>
 
